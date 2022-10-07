@@ -15,7 +15,7 @@ Dado o mapa, pede-se que seja feita uma **busca por largura** (método *FIFO* - 
 <br>
 
 ### Objetivo
-O objetivo da atividade é apenas mostrar o caminho percorrido e a distância total entre um dado estado e Bucareste, e mostrar na tela. O código está adaptado para mostrar a distância entre cada estado e outro, bem como para colorir alguns pontos chaves do resultado, como <span style="color:rgb(242, 217, 48)">estado inicial</span>, <span style="color:lightgreen">destino final</span> e <span style="color:cyan">distância total percorrida</span>.
+O objetivo da atividade é apenas mostrar o caminho percorrido e a distância total entre um estado e Bucareste, por meio de uma **busca por largura**.
 
 <br>
 
